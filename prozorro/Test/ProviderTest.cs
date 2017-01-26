@@ -6,6 +6,7 @@ using System;
 
 namespace prozorro.Test
 {
+
     public class ProviderTest : TestBase //inheritance from base class
     {
         [Test]
